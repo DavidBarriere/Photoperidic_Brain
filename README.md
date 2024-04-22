@@ -3,10 +3,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10730961.svg)](https://doi.org/10.5281/zenodo.10730961)
 
+
+![Model](https://github.com/DavidBarriere/Photoperidic_Brain/blob/Principale/images/Fig1.png)
+
 ## Abstract
 To cope with seasonal modifications of the environmental resources, brain anticipates and changes both its structural organisation and functioning. However, the tempo and mode of these central changes have been poorly investigated in mammalians. Here we describe a longitudinal morphometric neuroimaging study in a well know animal model to study seasonality: sheep. Using new magnetic resonance imaging (MRI) resources comprising a high-resolution brain template, its associated tissue priors (500-µm isotropic resolution) and a corresponding sheep brain atlas (202 regions of interest) we investigate the impact of seasonal transitions between winter and summer season on brain microstructure using voxel-based morphometry. We observed significant modifications of grey matter concentration (GMC) in pivotal brain areas involved in circadian rhythms (pineal, hypothalamus) and light processing (suprageniculate nucleus) but also within regions related to sensory processing, learning, memory, behavior control, and social cognition. These findings provide new insights into mammalian brain functioning revealing its flexibility and its adaptability to cope to environmental changes.
 
-![Model](https://github.com/DavidBarriere/Photoperidic_Brain/blob/Principale/images/Fig1.png)
 
 
 ## Material and methods
@@ -41,3 +43,7 @@ For voxel-based morphometry analysis (VBM), we used the T1 MPRAGE data (T1) whic
 To assess regional GM changes between the two seasons over all the animals, GMC maps obtained during the winter period were compared to those obtained during the summer period for each animal using a paired t test proposed by SPM. A brain mask was used to constrain the analysis to brain. For each cluster, the significance of the peak voxel was set as p < 0.005 (t-score = 2.92, degree of freedom = 16). The results are presented on an axial, coronal and sagittal brain slice series generated with nilearn.
 ### Post-processing statistical analysis
 VBM significant cluster revealed SPM analysis data were identified using our atlas and a personal procedure developed in MATLAB. For each comparison, ROI masks from the second version of the TSBTA atlas were used to extract GMC values of corresponding regions within the GMC map using REX plugging. Group comparison (Winter versus Summer) of endocrine, and GMC data were compiled and analysed using GraphPad Prism 10.2.0 software, and were compared using a Wilcoxon matched pairs signed rank test. Statistical significance was defined as p < 0.05 for these analyses.
+
+
+## Results
+![Model](https://github.com/DavidBarriere/Photoperidic_Brain/blob/Principale/images/Fig2.png)
