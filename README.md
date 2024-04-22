@@ -6,6 +6,8 @@
 
 ![Model](https://github.com/DavidBarriere/Photoperidic_Brain/blob/Principale/images/Fig1.png)
 
+**Turone Sheep Brain Atlas and Template toolkit. (A) Axial, coronal, and sagittal view CT template (Top) and MRI template (Down). Cross hairs showing the position of the lambdoid suture which is used as reference point within the TSBTA space. (B) 3D representation of the TSBTA space. Yellow shaded mesh represents the skull and crosshair represent the reference point of the skull (lambdoid suture position). (C) Sagittal view of TSBTA brain atlas. (D) Anterior (top) and posterior (down) 3D view of the thalamus segmentation.**
+
 ## Abstract
 To cope with seasonal modifications of the environmental resources, brain anticipates and changes both its structural organisation and functioning. However, the tempo and mode of these central changes have been poorly investigated in mammalians. Here we describe a longitudinal morphometric neuroimaging study in a well know animal model to study seasonality: sheep. Using new magnetic resonance imaging (MRI) resources comprising a high-resolution brain template, its associated tissue priors (500-µm isotropic resolution) and a corresponding sheep brain atlas (202 regions of interest) we investigate the impact of seasonal transitions between winter and summer season on brain microstructure using voxel-based morphometry. We observed significant modifications of grey matter concentration (GMC) in pivotal brain areas involved in circadian rhythms (pineal, hypothalamus) and light processing (suprageniculate nucleus) but also within regions related to sensory processing, learning, memory, behavior control, and social cognition. These findings provide new insights into mammalian brain functioning revealing its flexibility and its adaptability to cope to environmental changes.
 
@@ -47,3 +49,6 @@ VBM significant cluster revealed SPM analysis data were identified using our atl
 
 ## Results
 ![Model](https://github.com/DavidBarriere/Photoperidic_Brain/blob/Principale/images/Fig2.png)
+
+**Seasonal grey matter modifications. Sagittal (A) Coronal (B) and axial (C) slices showing grey matter concentration (GMC) differences between winter and summer.
+SPM paired Student t-test analysis. Voxel-level threshold p < 0.005, t (16) = 2.92. BNST = bed nucleus of the stria terminalis ; Hy = hypothalamus ; Hip = hippocampus ; pHipp = parahippocampal cortex ; PAG = periaqueductal grey substance ; Cg = cingulate cortex ; sGen = suprageniculate nucleus ; Occ = occipital gyrus ; Clau = claustrocortex (insula) ; Rec = rectus gyrus ; OB = olfactory bulb ; Pir = piriform cortex ; Amyg = amygdala ; Te = temporal gyrus; Hb = habenular nucleus.**
