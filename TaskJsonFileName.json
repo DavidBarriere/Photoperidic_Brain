@@ -1,0 +1,7 @@
+{
+  "DataRotation" : 1,
+  "DataNormalization" : 0,
+  "DataCropping" : 0,
+  "DataBiasFieldCorrection" : 0,
+  "DataFiltering" : 0
+}
