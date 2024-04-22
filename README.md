@@ -3,6 +3,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10730961.svg)](https://doi.org/10.5281/zenodo.10730961)
 
+![Alt text](image link)
+The Turone Sheep Brain Template and Atlas toolkit.
 
 ## Abstract
 To cope with seasonal modifications of the environmental resources, brain anticipates and changes both its structural organisation and functioning. However, the tempo and mode of these central changes have been poorly investigated in mammalians. Here we describe a longitudinal morphometric neuroimaging study in a well know animal model to study seasonality: sheep. Using new magnetic resonance imaging (MRI) resources comprising a high-resolution brain template, its associated tissue priors (500-µm isotropic resolution) and a corresponding sheep brain atlas (202 regions of interest) we investigate the impact of seasonal transitions between winter and summer season on brain microstructure using voxel-based morphometry. We observed significant modifications of grey matter concentration (GMC) in pivotal brain areas involved in circadian rhythms (pineal, hypothalamus) and light processing (suprageniculate nucleus) but also within regions related to sensory processing, learning, memory, behavior control, and social cognition. These findings provide new insights into mammalian brain functioning revealing its flexibility and its adaptability to cope to environmental changes.
