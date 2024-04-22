@@ -1,4 +1,4 @@
-# Microarchitectural organization of the mammalian brain over the seasons
+# Microarchitectural reorganization of the mammalian brain over the seasons
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10730961.svg)](https://doi.org/10.5281/zenodo.10730961)
